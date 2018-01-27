@@ -1,5 +1,8 @@
 ## Created by Georgios Lymperopoulos
 
+### Setup
+- yarn install
+
 ### To run / monitor tests:
 -  yarn test -- --watch
 
