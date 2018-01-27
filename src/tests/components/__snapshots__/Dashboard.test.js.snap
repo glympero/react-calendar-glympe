@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ExpenseDashboardPage 1`] = `
+<div>
+  <h4>
+    Select Date:
+  </h4>
+  <Connect(Calendar) />
+</div>
+`;

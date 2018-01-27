@@ -1,0 +1,8 @@
+@import './base/settings';
+@import './base/base';
+
+.CalendarDay--outside {
+    border: 0;
+    cursor: default;
+    background-color: $off-white;
+}

@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render header correctly 1`] = `
+<header>
+  <h1>
+    Code Exercise for JS/React Developer
+  </h1>
+  <div
+    className="container"
+  >
+    <NavLink
+      activeClassName="is-active"
+      ariaCurrent="true"
+      className="item"
+      exact={true}
+      to="/"
+    >
+      Calendar
+    </NavLink>
+    <NavLink
+      activeClassName="is-active"
+      ariaCurrent="true"
+      className="item"
+      to="/about"
+    >
+      Help Page
+    </NavLink>
+  </div>
+</header>
+`;
